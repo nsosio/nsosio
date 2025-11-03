@@ -4,7 +4,7 @@
 Computer Engineer with a strong AI/ML background. I’ve built and shipped deep tech products, scalable training pipelines, and real-world AI systems, from prototype to production and beyond.
 
 ## 💼 Work  
-CTO at Jo&Ko, previously Tech Lead at 🇨🇭 Prem, where I led the development of distributed training pipelines and deep tech products. Before that, ML Engineer at 🇩🇪 Bonial, delivering AI solutions end-to-end.  
+CTO at Kosuke, founder at Jo&Ko, previously Tech Lead at 🇨🇭 Prem, where I led the development of distributed training pipelines and deep tech products. Before that, ML Engineer at 🇩🇪 Bonial, delivering AI solutions end-to-end.  
 
 Currently exploring new ideas at the intersection of AI, product, and scale.
 
